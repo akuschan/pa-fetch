@@ -1,0 +1,21 @@
+# leinp
+
+Parallel anonymous fetcher.
+
+Discovers alive anonymous proxies and lets parallel anonymous fetches via the pa-fetch function.
+
+## Usage
+
+lein deps
+./repl.sh
+(load-file "pa-fetch.clj")
+
+## Installation
+
+None
+
+## License
+
+Copyright (C) 2010 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
